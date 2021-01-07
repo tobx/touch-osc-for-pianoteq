@@ -23,14 +23,14 @@ This is a [TouchOSC](https://hexler.net/products/touchosc) layout to control [Pi
 
    > **Note:** This step is only required as long as the Pianoteq layout is not shipped directly with the TouchOSC app.
 
-   1. Install TouchOSC editor:  
-      https://hexler.net/products/touchosc#resources
+   - Install TouchOSC editor:  
+     https://hexler.net/products/touchosc#resources
 
-   2. Download TouchOSC layout:  
-      [Pianoteq.touchosc](https://github.com/tobx/touch-osc-for-pianoteq/raw/main/Pianoteq.touchosc)
+   - Download TouchOSC layout:  
+     [Pianoteq.touchosc](https://github.com/tobx/touch-osc-for-pianoteq/raw/main/Pianoteq.touchosc)
 
-   3. Open TouchOSC layout `Pianoteq.touchosc` with TouchOSC editor and sync it to your mobile device as described here:  
-      https://hexler.net/docs/touchosc-editor-sync
+   - Open TouchOSC layout `Pianoteq.touchosc` with TouchOSC editor and sync it to your mobile device as described here:  
+     https://hexler.net/docs/touchosc-editor-sync
 
 3. Setup TouchOSC connection as described here:  
    https://hexler.net/docs/touchosc-configuration-connections
