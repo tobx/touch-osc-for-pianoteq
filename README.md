@@ -27,7 +27,7 @@ This is a [TouchOSC](https://hexler.net/products/touchosc) layout to control [Pi
       https://hexler.net/products/touchosc#resources
 
    2. Download TouchOSC layout:  
-      [Pianoteq.touchosc](Pianoteq.touchosc)
+      [Pianoteq.touchosc](https://github.com/tobx/touch-osc-for-pianoteq/raw/main/Pianoteq.touchosc)
 
    3. Open TouchOSC layout `Pianoteq.touchosc` with TouchOSC editor and sync it to your mobile device as described here:  
       https://hexler.net/docs/touchosc-editor-sync
@@ -49,7 +49,7 @@ This is a [TouchOSC](https://hexler.net/products/touchosc) layout to control [Pi
    > **Note:** This step is only required as long as the MIDI mapping is not shipped directly with Pianoteq.
 
    - Download MIDI mapping:  
-     [TouchOSC.ptm](TouchOSC.ptm)
+     [TouchOSC.ptm](https://github.com/tobx/touch-osc-for-pianoteq/raw/main/TouchOSC.ptm)
 
    - Copy MIDI mapping `TouchOSC.ptm` to the `MidiMappings` folder.
 
